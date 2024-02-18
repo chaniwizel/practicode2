@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p1GYC305IhZ/FFeDIO66ItC4Efe8Wm9Q4VmkQFMVV+2NDEsoEiQLXz3j4Tua0cgtQsQyaSbWeZcrKh69cvUoTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user1\\Desktop\\תכנות\\תשפד\\דוטנט\\Html Serializer\\Html Serializer\\Html Serializer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
